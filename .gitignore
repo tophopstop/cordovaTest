@@ -7,6 +7,8 @@ https://gist.github.com/rjmunro/5831320
 platforms/android/assets/www
 platforms/android/bin/
 platforms/android/gen/
+platforms/android/ant-build/
+platforms/android/CordovaLib/ant-build/
 platforms/android/res/xml/config.xml
  
 # iOS
